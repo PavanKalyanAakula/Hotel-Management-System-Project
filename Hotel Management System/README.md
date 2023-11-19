@@ -1,6 +1,6 @@
 ## Hotel Management system
 <p align="center">
-   <img width="240" height="340"src="imgs/img1.png">
+   <img width="340" height="340"src="imgs/img1.png">
 </p>
 
 #### Some explanations for each button and the function which represents are the following : 
