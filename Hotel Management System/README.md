@@ -16,33 +16,33 @@ Below I have added a flow chart to summarizes how my application runs.
 - ### **Index**: Organizes and manages the data efficiently for quick access.
 
 <p align="center">
-   <img width="500" height="500"src="imgs/img4.png">
+   <img width="650" height="400"src="imgs/img4.png">
 </p>
 
 - ### **Check-In**: Allows guests to register their arrival at the hotel.
 
 <p align="center">
-   <img width="500" height="500"src="imgs/img1.png">
+   <img width="650" height="400"src="imgs/img1.png">
 </p>
 
 
 - ### **Check-out**: Facilitates the departure process for guests, including settling bills.
 
 <p align="center">
-   <img width="500" height="500"src="imgs/img2.png">
+   <img width="650" height="400"src="imgs/img2.png">
 </p>
 
 
 - ### **Get Info**: Retrieves information about a specific guest or room.
 
 <p align="center">
-   <img width="500" height="500"src="imgs/img3.png">
+   <img width="650" height="400"src="imgs/img3.png">
 </p>
 
 - ### **List of All Guests**: Provides a comprehensive list of all current guests in the hotel.
 
 <p align="center">
-   <img width="500" height="500"src="imgs/img5.png">
+   <img width="650" height="400"src="imgs/img5.png">
 </p>
 
 - ### **Receipt**: Generates and issues receipts for guests, detailing their expenses during the stay.
