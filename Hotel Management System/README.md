@@ -9,7 +9,7 @@ The objective of the project was to develop an easy to use and pocket friendly w
 Below I have added a flow chart to summarizes how my application runs.
 
   <p align="center">
-   <img width="900" height="600"src="imgs/Flow_Chart.jpg">
+   <img width="900" height="450"src="imgs/Flow_Chart.jpg">
   </p>
   
 
