@@ -1,11 +1,37 @@
-## Hotel Management system
+# Hotel Management system
+
+## The Hotel Management project involves implementing various functionalities: 
+
+### **Index**: Organizes and manages the data efficiently for quick access.
+
 <p align="center">
-   <img width="340" height="340"src="imgs/img1.png">
+   <img width="500" height="500"src="imgs/img4.png">
 </p>
 
-#### Some explanations for each button and the function which represents are the following : 
+### **Check-In**: Allows guests to register their arrival at the hotel.
 
-- **1st Row**
 <p align="center">
-   <img src="imgs/img2.png">
+   <img width="500" height="500"src="imgs/img1.png">
 </p>
+
+
+### **Check-out**: Facilitates the departure process for guests, including settling bills.
+
+<p align="center">
+   <img width="500" height="500"src="imgs/img2.png">
+</p>
+
+
+### **Get Info**: Retrieves information about a specific guest or room.
+
+<p align="center">
+   <img width="500" height="500"src="imgs/img3.png">
+</p>
+
+### **List of All Guests**: Provides a comprehensive list of all current guests in the hotel.
+
+<p align="center">
+   <img width="500" height="500"src="imgs/img5.png">
+</p>
+
+### **Receipt**: Generates and issues receipts for guests, detailing their expenses during the stay.
