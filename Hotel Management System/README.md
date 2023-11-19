@@ -12,6 +12,7 @@ Below I have added a flow chart to summarizes how my application runs.
    <img width="500" height="500"src="imgs/FLOW_CHART.jpg">
 </p
 
+
 - ### **Index**: Organizes and manages the data efficiently for quick access.
 
 <p align="center">
